@@ -1,0 +1,18 @@
+{
+  "name": "conway-session-2",
+  "version": "1.0.0",
+  "description": "Conway's Game of Life implementation session 2",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^3.1.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
